@@ -1,0 +1,64 @@
+<navBar background="#f2f2f2" homeIcon="/images/logo.png" userIcon="/images/用户.png"></navBar>
+<swiper autoplay="true" class="banner" indicatorDots="true">
+    <swiper-item>
+        <image mode="widthFix" src="/images/banner1.jpg"></image>
+    </swiper-item>
+    <swiper-item>
+        <image mode="widthFix" src="/images/banner2.jpg"></image>
+    </swiper-item>
+    <swiper-item>
+        <image mode="widthFix" src="/images/banner3.jpg"></image>
+    </swiper-item>
+</swiper>
+<view class="mukuai">
+    <view class="publicTitle">
+        <view class="txt">经销商</view>
+    </view>
+    <view class="xiangxi">
+        <navigator class="box" url="/pages/万盛/万盛">
+            <image class="pic" mode="widthFix" src="/images/ws.png"></image>
+        </navigator>
+        <navigator class="box" mode="widthFix" url="/pages/世盛/世盛">
+            <image class="pic" mode="widthFix" src="/images/ss.png"></image>
+        </navigator>
+        <navigator class="box" url="/pages/恒盛/恒盛">
+            <image class="pic" mode="widthFix" src="/images/hs.png"></image>
+        </navigator>
+    </view>
+</view>
+<view class="mukuai">
+    <view class="publicTitle">
+        <view class="txt">查看车型</view>
+    </view>
+    <view class="xiangxi">
+        <navigator class="box" url="/pages/haval/haval">
+            <image class="pic" mode="widthFix" src="/images/haval_logo.png"></image>
+        </navigator>
+        <navigator class="box" url="/pages/wey/wey">
+            <image class="pic" mode="widthFix" src="/images/wey_logo1.png"></image>
+        </navigator>
+    </view>
+</view>
+<view class="mukuai">
+    <view class="publicTitle">
+        <view class="txt">增值服务</view>
+    </view>
+    <view class="xiangxi">
+        <navigator bindtap="tel" class="box">
+            <image class="pic" mode="widthFix" src="/images/baoyang.png"></image>
+        </navigator>
+    </view>
+</view>
+<view class="mukuai">
+    <view class="publicTitle">
+        <view class="txt">关注我们</view>
+    </view>
+    <view class="xiangxi">
+        <view class="box">
+            <image class="pic" mode="widthFix" showMenuByLongpress="true" src="/images/miniprogram_logo.png"></image>
+        </view>
+        <view class="box">
+            <image class="pic" mode="widthFix" src="/images/gongzhonghao_logo.png"></image>
+        </view>
+    </view>
+</view>

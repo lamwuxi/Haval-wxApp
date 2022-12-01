@@ -1,0 +1,22 @@
+{
+  "pages": [
+    "pages/首页/首页",
+    "pages/主页/主页",
+    "pages/logs/logs",
+    "pages/用户/用户",
+    "pages/万盛/万盛",
+    "pages/世盛/世盛",
+    "pages/恒盛/恒盛",
+    "pages/haval/haval",
+    "pages/wey/wey",
+    "pages/VV7_GT_brabus/VV7_GT_brabus"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "",
+    "navigationBarTextStyle": "black",
+    "navigationStyle": "default"
+  },
+  "sitemapLocation": "sitemap.json"
+}

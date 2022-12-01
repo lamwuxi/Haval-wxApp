@@ -1,0 +1,39 @@
+<view class="photo">
+    <image mode="widthFix" src="/images/VV7_GT_brabus展示.jpg"></image>
+</view>
+<view class="introduction">
+    <view class="publictitle">
+        <view class="txt">VV7 GT brabus | automotive</view>
+    </view>
+    <view class="publictitle">
+        <view class="txt2">官方指导价格：25.88万元</view>
+    </view>
+    <view class="publictitle">
+        <view class="txt1">长*宽*高（mm）</view>
+    </view>
+    <view class="publictitle">
+        <view class="txt2">4820*1965*1672</view>
+    </view>
+    <view class="line"></view>
+    <view class="publictitle">
+        <view class="txt1">轴距（mm）</view>
+    </view>
+    <view class="publictitle">
+        <view class="txt2">2950</view>
+    </view>
+    <view class="line"></view>
+    <view class="publictitle">
+        <view class="txt1">油箱容积（L）</view>
+    </view>
+    <view class="publictitle">
+        <view class="txt2">65</view>
+    </view>
+</view>
+<view class="button">
+    <view bindtap="tel" class="touch">
+        <image class="pic" mode="widthFix" src="/images/预约试驾.png"></image>
+    </view>
+    <view bindtap="address" class="touch">
+        <image class="pic" mode="widthFix" src="/images/前往恒盛WEY.png"></image>
+    </view>
+</view>

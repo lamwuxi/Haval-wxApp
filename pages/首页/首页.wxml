@@ -1,0 +1,5 @@
+<view class="main">
+    <view class="adv1">
+        <image class="adv-img" mode="widthFix" src="../../images/title.jpg"></image>
+    </view>
+</view>

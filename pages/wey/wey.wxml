@@ -1,0 +1,25 @@
+<view class="mukuai">
+    <view class="publicTitle">
+        <view class="txt">Wey车型</view>
+    </view>
+    <view class="xiangxi">
+        <navigator class="box" url="/pages/VV7_GT_brabus/VV7_GT_brabus">
+            <image class="pic" mode="widthFix" src="/images/VV7 GT brabus.png"></image>
+        </navigator>
+    </view>
+    <view class="xiangxi">
+        <navigator class="box">
+            <image class="pic" mode="widthFix" src="/images/VV7.png"></image>
+        </navigator>
+    </view>
+    <view class="xiangxi">
+        <navigator class="box">
+            <image class="pic" mode="widthFix" src="/images/VV6.png"></image>
+        </navigator>
+    </view>
+    <view class="xiangxi">
+        <navigator class="box">
+            <image class="pic" mode="widthFix" src="/images/VV5.png"></image>
+        </navigator>
+    </view>
+</view>

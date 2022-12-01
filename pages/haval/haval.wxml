@@ -1,0 +1,55 @@
+<view class="mukuai">
+    <view class="publicTitle">
+        <view class="txt">哈弗车型</view>
+    </view>
+    <view class="xiangxi">
+        <navigator class="box">
+            <image class="pic" mode="widthFix" src="/images/dagou.png"></image>
+        </navigator>
+    </view>
+    <view class="xiangxi">
+        <navigator class="box">
+            <image class="pic" mode="widthFix" src="/images/第三代哈弗H6_banner.png"></image>
+        </navigator>
+    </view>
+    <view class="xiangxi">
+        <navigator class="box">
+            <image class="pic" mode="widthFix" src="/images/第二代哈弗H6_banner.png"></image>
+        </navigator>
+    </view>
+    <view class="xiangxi">
+        <navigator class="box">
+            <image class="pic" mode="widthFix" src="/images/哈弗H9_banner.png"></image>
+        </navigator>
+    </view>
+    <view class="xiangxi">
+        <navigator class="box">
+            <image class="pic" mode="widthFix" src="/images/哈弗H6 Coupe_banner.png"></image>
+        </navigator>
+    </view>
+    <view class="xiangxi">
+        <navigator class="box">
+            <image class="pic" mode="widthFix" src="/images/哈弗H6运动版_banner.png"></image>
+        </navigator>
+    </view>
+    <view class="xiangxi">
+        <navigator class="box">
+            <image class="pic" mode="widthFix" src="/images/哈弗H4_banner.png"></image>
+        </navigator>
+    </view>
+    <view class="xiangxi">
+        <navigator class="box">
+            <image class="pic" mode="widthFix" src="/images/哈弗H2_banner.png"></image>
+        </navigator>
+    </view>
+    <view class="xiangxi">
+        <navigator class="box">
+            <image class="pic" mode="widthFix" src="/images/哈弗H7_banner.png"></image>
+        </navigator>
+    </view>
+    <view class="xiangxi">
+        <navigator class="box">
+            <image class="pic" mode="widthFix" src="/images/哈弗H5经典款_banner.png"></image>
+        </navigator>
+    </view>
+</view>

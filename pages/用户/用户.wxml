@@ -1,0 +1,7 @@
+<view class="mukuai">
+    <view class="xiangxi">
+        <navigator class="box">
+            <image class="pic" mode="widthFix" src="/images/绑定.png"></image>
+        </navigator>
+    </view>
+</view>

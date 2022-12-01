@@ -1,0 +1,39 @@
+<view class="photo">
+    <image mode="widthFix" src="/images/ws.jpg"></image>
+</view>
+<view class="introduction">
+    <view class="publictitle">
+        <view class="txt">无锡万盛专营店</view>
+    </view>
+    <view class="publictitle">
+        <view class="txt2">无锡哈弗指定授权经销商-无锡市万盛汽车销售服务有限公司</view>
+    </view>
+    <view class="publictitle">
+        <view class="txt1">营业时间</view>
+    </view>
+    <view class="publictitle">
+        <view class="txt2">08：30 ~ 17：30</view>
+    </view>
+    <view class="line"></view>
+    <view class="publictitle">
+        <view class="txt1">服务热线</view>
+    </view>
+    <view class="publictitle">
+        <view class="txt2">0510-82129333 0510-82129111</view>
+    </view>
+    <view class="line"></view>
+    <view class="publictitle">
+        <view class="txt1">店铺地址</view>
+    </view>
+    <view class="publictitle">
+        <view class="txt2">无锡市新吴区金城东路290号东方汽车城新城A9座</view>
+    </view>
+</view>
+<view class="button">
+    <view bindtap="tel" class="touch">
+        <image class="pic" mode="widthFix" src="/images/tel.png"></image>
+    </view>
+    <view bindtap="address" class="touch">
+        <image class="pic" mode="widthFix" src="/images/address.png"></image>
+    </view>
+</view>

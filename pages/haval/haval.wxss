@@ -1,0 +1,35 @@
+.mukuai {
+    background-color: transparent;
+    padding: 20rpx 30rpx 50rpx;
+}
+
+.publicTitle {
+    display: flex;
+    justify-content: space-between;
+    height: 80rpx;
+}
+
+.publicTitle .txt {
+    font-size: 35rpx;
+    font-weight: 700;
+    height: 100%;
+    position: relative;
+}
+
+.xiangxi {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.xiangxi .box {
+    background-color: transparent;
+    width: 100%;
+    margin-bottom: 40rpx;
+    border-radius: 0;
+    box-shadow: 0 6rpx 10rpx 2rpx #f2f2f2;
+}
+
+.xiangxi .pic {
+    width: 100%;
+}

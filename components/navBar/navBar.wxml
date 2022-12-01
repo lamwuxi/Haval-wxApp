@@ -1,0 +1,11 @@
+<view class="nav" style="height: {{status+navHeight}}px">
+    <view class="status" style="height: {{status}}px;{{containerStyle}}"></view>
+    <view class="navbar" style="height:{{navHeight}}px;{{containerStyle}}">
+        <view bindtap="home" class="home-icon" wx:if="{{homeIcon}}">
+            <image src="{{homeIcon}}"></image>
+        </view>
+        <view bindtap="user" class="user-icon" wx:if="{{userIcon}}">
+            <image src="{{userIcon}}"></image>
+        </view>
+    </view>
+</view>
